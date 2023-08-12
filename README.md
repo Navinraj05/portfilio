@@ -14,7 +14,7 @@
 ```javascript
 / Enter your Personal Details here
 export const personalDetails = {
-  name: "Pavan MG",
+  name: "Navin raj.N",
   tagline: "I build things for web",
   img: profile,
   about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.
@@ -24,10 +24,9 @@ export const personalDetails = {
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/",
-  github: "https://www.github.com/",
-  twitter: "https://twitter.com/",
-  instagram: "https://www.instagram.com/",
+  linkdein: "https://www.linkedin.com/in/navinraj-n-280348226/",
+  github: "https://github.com/Navinraj05",
+
 };
 
 // Enter your Work Experience here
